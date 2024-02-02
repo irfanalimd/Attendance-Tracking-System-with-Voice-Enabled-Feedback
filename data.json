@@ -1,0 +1,56 @@
+[
+    {
+        "name": "sadiq",
+        "img_path": "http://localhost:3001/images/sadiq.jpg",
+        "rollno": "1604-19-735-030",
+        "total_attendance": 11,
+        "present": [
+            "27-4-2023",
+            "28-4-2023",
+            "29-4-2023",
+            "1-5-2023",
+            "2-5-2023",
+            "4-5-2023",
+            "5-5-2023",
+            "6-5-2023",
+            "8-5-2023",
+            "10-5-2023",
+            "18-5-2023"
+        ]
+    },
+    {
+        "name": "irfan",
+        "img_path": "http://localhost:3001/images/irfan.jpg",
+        "rollno": "1604-19-735-015",
+        "total_attendance": 6,
+        "present": [
+            "27-4-2023",
+            "29-4-2023",
+            "4-5-2023",
+            "5-5-2023",
+            "6-5-2023",
+            "8-5-2023"
+        ]
+    },
+    {
+        "name": "shoaib",
+        "img_path": "http://localhost:3001/images/shoaib.jpg",
+        "rollno": "1604-19-735-019",
+        "total_attendance": 4,
+        "present": [
+            "27-4-2023",
+            "29-4-2023",
+            "5-5-2023",
+            "6-5-2023"
+        ]
+    },
+    {
+        "name": "pasha",
+        "rollno": "37",
+        "total_attendance": 1,
+        "present": [
+            "10-05-2023"
+        ],
+        "img_path": "http://localhost:3001/images/pasha.jpg"
+    }
+]
